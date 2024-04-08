@@ -1,3 +1,4 @@
+![ Heart Disease Prediction Using Logistic Regression](Heart-Disease-Prediction-With-Machine-Learning.jpg)
 # Heart Disease Prediction Using Logistic Regression
 This project aims to predict the risk of heart disease using logistic regression based on various patient attributes. It utilizes a dataset from the Framingham Heart Study, focusing on factors such as age, gender, smoking habits, cholesterol levels, blood pressure, and glucose levels to predict the likelihood of developing coronary heart disease (CHD) within ten years.
 
