@@ -34,8 +34,8 @@ Future enhancements to this project could include:
 - Hyperparameter tuning to optimize model performance further.
 - Deployment of the model for real-time predictions.
 
-### Contributors
-Gayathri Krishnan
+### Contributing
+Contributions are welcome! Please feel free to submit issues and pull requests.
 
 ### License
 This project is licensed under the MIT License.
